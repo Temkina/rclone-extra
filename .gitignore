@@ -20,5 +20,10 @@ __pycache__
 .DS_Store
 resource_windows_*.syso
 .devcontainer
+/cmd/bisync/testdata/bisync_vscode_debuggers_launch.json
 promptMerge.md
 prompt*
+MERGE_REPORT.md
+CONFLICT_REPORT.md
+CUSTOM_CHANGES_AUDIT.md
+COMPATIBILITY_REPORT.md
